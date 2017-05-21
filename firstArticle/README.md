@@ -1,4 +1,4 @@
-#WannaCry
+# WannaCry
 
 **WannaCry** (также известный как **WannaCrypt**, [**WCry**](https://tsn.ua/nauka_it/vsesvitnya-kiberataka-virus-ohopiv-kom-yuteri-z-windows-yaki-ne-onovilisya-zmi-928600.html)
 и **WanaCrypt0r 2.0**) — вредоносная программа, сетевой червь и программа-вымогатель денежных средств, поражающая только
